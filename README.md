@@ -1,3 +1,3 @@
 # My-Portfolio-Website
 
-https://nikhil26112.github.io/my-portfolio/
+https://effortless-starburst-1f9fdf.netlify.app/
